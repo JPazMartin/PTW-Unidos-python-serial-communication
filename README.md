@@ -4,7 +4,9 @@ Code for serial communication with the PTW Unidos electrometer. This code, up to
 Example `examples/basicIntegration.py` shows how to set a value of the high voltage, set the integration time of the electrometer and perform an integration.
 
 # Installation
+To install the code, run the following sequence in the main directory:
 
 ```
 pip install -r requirements.txt
 pip install .
+```
